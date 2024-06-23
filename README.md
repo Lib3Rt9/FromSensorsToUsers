@@ -1,4 +1,4 @@
-# Smart home monitoring and secutiry system
+# Smart home monitoring and security system
 
 This project integrates an Intruder Detection System with Security Camera. It also has additional features: an automatic LED that turn on based on light level and motion, and a system to view temperature/humidity of the house in real time. 
 ## Components:
