@@ -26,7 +26,7 @@ This project integrates an Intruder Detection System with Security Camera. It al
 
 ### 4. motion_detected_camera
 
-- **Description**: ESP32 code to communicate with sensor and send email alert.
+- **Description**: Implementation for a microcontroller to communicate with a sensor and send an email alert.
 - **Functionality**:
   - Store captured footage locally on SD card.
   - Sends email alerts triggered by the microwave sensor with Doppler's effect.
