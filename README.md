@@ -23,6 +23,13 @@ This project integrates an Intruder Detection System with Security Camera. It al
 - **Functionality**:
   - Facilitates communication between ESP32 and Arduino modules.
   - Sends email alerts triggered by the Intruder Detection System code with Arduino.
+
+### 4. motion_detected_camera
+
+- **Description**: ESP32 code to communicate with sensor and send email alert.
+- **Functionality**:
+  - Store captured footage locally on SD card.
+  - Sends email alerts triggered by the microwave sensor with Doppler's effect.
   
 ## Demo
 [https://drive.google.com/drive/folders/1mDV5Wj-wY_zIdS-Fqm_uwAzlQeinl-GS]
