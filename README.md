@@ -36,7 +36,7 @@ This project integrates an Intruder Detection System with Security Camera. It al
 
 ## Contributors:
 
-- [Ta Quang Minh]([https://github.com/mnhqut])
-- [Pham Gia Phuc]([https://github.com/Lib3Rt9])
+- [Ta Quang Minh](https://github.com/mnhqut)
+- [Pham Gia Phuc](https://github.com/Lib3Rt9)
 
 
