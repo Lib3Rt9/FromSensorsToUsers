@@ -9,22 +9,28 @@ This project integrates an Intruder Detection System with Security Camera. It al
 - **Functionality**:
   - Turns on/off LEDs based on sensor input of light level and motion.
   - Detect intruder based on magnet sensor and alarm by buzzer. This system can be turn on/off by a IR remote
-  
-### 2. save_mail_cred
+    
+### 2. temp_humid_kalman
+- **Description**: ESP32 code to measure temperature and humidity
+- **Functionality**:
+  - Measure temperature and humidity
+  - Provide webpage to view those readings in real time
+
+### 3. save_mail_cred
 
 - **Description**: ESP32 code to securely save encrypted email and WiFi credentials.
 - **Functionality**:
   - Stores sensitive credentials securely on ESP32 EPROM memory.
   - Implements encryption to protect stored data.
   
-### 3. send_mail_via_esp32_commu
+### 4. send_mail_via_esp32_commu
 
 - **Description**: ESP32 code to communicate with Arduino and send email alerts.
 - **Functionality**:
   - Facilitates communication between ESP32 and Arduino modules.
   - Sends email alerts triggered by the Intruder Detection System code with Arduino.
 
-### 4. motion_detected_camera
+### 5. motion_detected_camera
 
 - **Description**: Implementation for a microcontroller to communicate with a sensor and send an email alert.
 - **Functionality**:
