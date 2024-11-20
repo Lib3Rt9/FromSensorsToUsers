@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "sensor-test0",
+			"path": "../sensor-test0"
+		},
+		{
+			"name": "test1",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
